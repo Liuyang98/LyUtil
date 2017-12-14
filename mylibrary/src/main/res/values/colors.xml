@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="app_red">#E42626</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="btn_login">#5C5C5C</color>
+
+    <color name="action_bar_color">#222222</color>
+    <color name="bg_login_btn">#33000000</color>
+    <color name="bg_register_btn">#000000</color>
+
+    <color name="line_color_search">#CDCDCD</color>
+    <color name="line_color_index">#BABABA</color>
+    <color name="line_color_person">#EFEFEF</color>
+
+    <color name="txt_black2f">#2F2F2F</color>
+    <color name="txt_black3">#333333</color>
+    <color name="txt_grey5">#555555</color>
+    <color name="txt_grey6">#666666</color>
+    <color name="txt_grey93">#939393</color>
+    <color name="txt_greyd4">#D4D4D4</color>
+    <color name="txt_white">#FFFFFF</color>
+
+    <color name="bg_wx_storke">#0EBE1B</color>
+    <color name="bg_qq_storke">#237EFF</color>
+
+
+    <color name="bg_color_blackf3">#F3F3F3</color>
+    <color name="bg_color_history">#F4F4F4</color>
+    <color name="bg_color_greyd1">#D1D1D1</color>
+    <color name="bg_color_greyc">#CCCCCC</color>
+    <color name="bg_color_greye">#EEEEEE</color>
+    <color name="txt_share">#040404</color>
+</resources>
