@@ -87,8 +87,6 @@ public class StatusBarCompat {
      * 设置状态栏黑色字体图标，
      * 适配4.4以上版本MIUIV、Flyme和6.0以上版本其他Android
      *
-     * @param activity
-     * @return 1:MIUUI 2:Flyme 3:android6.0
      */
     public static void StatusBarLightMode(Activity activity) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {

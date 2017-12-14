@@ -1,8 +1,6 @@
 package com.shunwang.mylibrary;
 
-import android.support.annotation.StringRes;
 import android.widget.TextView;
-
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
@@ -25,7 +23,7 @@ public class StringUtil {
         return textView.getText().toString();
     }
 
-    public static String getStr(@StringRes int resId) {
+    public static String getStr(int resId) {
         return LyUtil.getContext().getString(resId);
     }
 
