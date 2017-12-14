@@ -1,0 +1,25 @@
+<resources>
+    <!--全局字体：48 42 39 36 33 30 27 六种-->
+    <dimen name="txt_size_18">18sp</dimen>
+    <dimen name="txt_size_17">17sp</dimen>
+    <dimen name="txt_size_16">16sp</dimen>
+    <dimen name="txt_size_15">15sp</dimen>
+    <dimen name="txt_size_14">14sp</dimen>
+    <dimen name="txt_size_13">13sp</dimen>
+    <dimen name="txt_size_12">12sp</dimen>
+    <dimen name="txt_size_11">11sp</dimen>
+    <dimen name="txt_size_10">10sp</dimen>
+    <dimen name="txt_size_9">9sp</dimen>
+
+
+    <dimen name="index_bottom_height">48dp</dimen>
+    <dimen name="index_bottom_icon_size">22dp</dimen>
+    <dimen name="index_bottom_txt_top">3dp</dimen>
+    <dimen name="title_height">47dp</dimen>
+
+    <dimen name="person_item_height">59.5dp</dimen>
+
+    <dimen name="live_list_height">87dp</dimen>
+
+    <dimen name="main_home_banner_height">150dp</dimen>
+</resources>
